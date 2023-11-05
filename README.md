@@ -5,7 +5,7 @@ a maze and requires your assistance in order to escape. As illustration, in the 
 mentioned above, the entrance is located in cell 40 and the exit is located in cell 59. In
 order to make this task less challenging, we will presume that this maze contains only a
 single entrance and exit. Additionally, it is essential to always confirm that there is a viable
-escape route from the maze. You can only move horizontally and vertically
+escape route from the maze. You can only move horizontally and vertically.
 ### Search strategies implementation
 Implement and provide results for the following search strategies:
 - Breadth-first search (BFS) & Depth-first search (DFS)
