@@ -1,4 +1,4 @@
-# Problem description
+### Problem description
 ![Example maze image.](/Document/example.png)
 Imagine you are participating in a game where a character is attempting to navigate through
 a maze and requires your assistance in order to escape. As illustration, in the maze
